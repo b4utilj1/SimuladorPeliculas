@@ -1,8 +1,8 @@
-# React + Vite
+### SimuladorPeliculas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Con este proyecto se busca poner en practica algunos temas fundamentales de React  y crear una pagina de peliculas, la cual represente varios tipos de peliculas y que muestren un poco mas de su informacion, como año de la peliculas, descripcion entre otras.
 
-Currently, two official plugins are available:
+# Inicializar proyecto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- npm install
+- npm run dev
