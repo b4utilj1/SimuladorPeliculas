@@ -6,3 +6,7 @@
 
 - npm install
 - npm run dev
+
+
+# Vista
+https://venerable-pegasus-3f9665.netlify.app/
